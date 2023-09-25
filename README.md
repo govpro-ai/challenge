@@ -9,9 +9,9 @@ While building GovPro AI, we built a strong foundation of document processors th
 ## The Task
 A popular platform in the government contracting space is SAM.gov (which used to be called FedBizOpps) and hosts RFPs, RFIs and other solicitation documents from federal agencies stating their requirements for government contractors to bid on their jobs. However, it's a big awkward database and difficult to extract information from, and most resort to parsing out documents.
 
-A common task is to go through a document from SAM and highlight important sentences. We'd like you to build a frontend tool that displays a PDF file and allows the user to highlight sentences by simply clicking on them (**NOT clicking and dragging to highlight**). The user should be able to mouse over sentences and click any word to highlight the entire sentence.
+A common task is to go through a document from SAM and highlight important sentences. We'd like you to build a frontend tool that displays a PDF or Word file and allows the user to highlight sentences by simply clicking on them (**NOT clicking and dragging to highlight**). The user should be able to mouse over sentences and click any word to highlight the entire sentence. If a document is already highlighted in Yellow, it should pick a different color for any new highlights.
 
-For PDFs, we'd like you to use examples of solicitation documents found on SAM -- we'd be happy to send you some samples as well to get you started.
+For PDFs, we'd like you to use examples of solicitation documents found on SAM -- please see attached samples to get you started.
 
 ## Requirements
 Just 3 requirements: 
